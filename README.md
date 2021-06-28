@@ -1,5 +1,4 @@
-# FinalProject
-#BY: Carlos Gargallo, Alex Urbano and Joel Tibau
+# FinalProject            BY: Carlos Gargallo, Alex Urbano and Joel Tibau
 
 Important information and remarks about the project:
 
