@@ -1,4 +1,4 @@
-# FinalProject            BY: Carlos Gargallo, Alex Urbano and Joel Tibau
+# FinalProject: Image super-resolution ------ BY: Carlos Gargallo, Alex Urbano and Joel Tibau
 
 Important information and remarks about the project:
 
