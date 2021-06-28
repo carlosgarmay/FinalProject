@@ -1,4 +1,6 @@
-# FinalProject --------- BY: Carlos Gargallo, Alex Urbano and Joel Tibau
+# FinalProject
+#BY: Carlos Gargallo, Alex Urbano and Joel Tibau
+
 Important information and remarks about the project:
 
 - We developed the lab in Google Collab (without using the cluster) due to lack of some libraries in it. And so, it is uploaded as a .ipynb file proper structured
